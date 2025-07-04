@@ -1,0 +1,6 @@
+
+# Added by ignore manager
+dist/
+node_modules/
+target/
+codebase.md
